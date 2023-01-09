@@ -53,7 +53,6 @@ class PatientAdmin(admin.ModelAdmin):
 ![output](./groups.jpeg)
 ![output](./index.jpeg)
 
-Include the screenshot of your admin page.
 
 
 ## RESULT
