@@ -5,8 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-
+![output](./index.jpeg)
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -51,8 +50,6 @@ class PatientAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![output](./groups.jpeg)
-![output](./index.jpeg)
-
 
 
 ## RESULT
